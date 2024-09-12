@@ -1,9 +1,9 @@
 [submodule "amf"]
 	path = NFs/amf
-	url = https://github.com/free5gc/amf.git
+	url = https://github.com/Chiller2121/amf-5g-relays.git
 [submodule "ausf"]
 	path = NFs/ausf
-	url = https://github.com/free5gc/ausf.git
+	url = https://github.com/Chiller2121/ausf-5g-relays.git
 [submodule "n3iwf"]
 	path = NFs/n3iwf
 	url = https://github.com/free5gc/n3iwf.git
